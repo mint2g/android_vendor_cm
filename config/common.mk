@@ -101,7 +101,7 @@ PRODUCT_PACKAGES += \
     CMParts \
     Development \
     Profiles \
-    WeatherManagerService
+    # WeatherManagerService
 
 # Optional CM packages
 PRODUCT_PACKAGES += \
@@ -125,9 +125,9 @@ PRODUCT_PACKAGES += \
     Jelly \
     LockClock \
     Trebuchet \
-    Updater \
-    WallpaperPicker \
-    WeatherProvider
+    WallpaperPicker 
+    #Updater
+    #WeatherProvider
 
 # Exchange support
 PRODUCT_PACKAGES += \
